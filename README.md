@@ -1,0 +1,2 @@
+# Promise
+用js自己模拟实现一个底层Promise，实现跟Promise一样的功能，目的是为了更好地理解promise
