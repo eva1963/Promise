@@ -1,2 +1,6 @@
 # Promise
-用js自己模拟实现一个底层Promise，实现跟Promise一样的功能，目的是为了更好地理解promise
+
+这里只是做一个底层实现一个Promise的例子，其实真实工作中可能我们用的更多的是async/await，但我们都知道async只是ES7对于Promise的一个语法糖。想要真正的理解异步，搞懂Promise的实现原理还是很有必要的，这里我们就来揭秘Promise的基础实现代码~
+
+
+

@@ -1,0 +1,22 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "这里只是做一个底层实现一个Promise的例子，其实真实工作中可能我们用的更多的是async/await，但我们都知道async只是ES7对于Promise的一个语法糖。想要真正的理解异步，搞懂Promise的实现原理还是很有必要的，这里我们就来揭秘Promise的基础实现代码~",
+  "main": "Promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eva1963/Promise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eva1963/Promise/issues"
+  },
+  "homepage": "https://github.com/eva1963/Promise#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
